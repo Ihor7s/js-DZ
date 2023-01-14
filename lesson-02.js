@@ -311,4 +311,12 @@
 // }
 // console.log(total);
 
+// const numbers = [1, 4, 56, 78, 21, 2, 3];
+// let value = 3;
+// for (let i = 0; i < numbers.length; i += 1) {
+//     if (numbers[i] < value) {
+//         continue;
+//     }
+//     console.log(`${value}: ${numbers[i]}`);
+// }
 
