@@ -320,3 +320,65 @@
 //     console.log(`${value}: ${numbers[i]}`);
 // }
 
+/////////практика з 11 годинного курса..,,./////
+// const objectA = {
+//     a: 10,
+//     b: true,
+// }
+// console.log(objectA)
+
+// const copyOfa = objectA
+// console.log(copyOfa)
+
+// copyOfa.c = 'abc';
+// console.log(copyOfa)
+
+// let a = 10;
+// a = true
+// a = 'abc'
+// console.log(a)
+
+// ///////
+// const myCity = {
+//     city: 'New Yprk',
+//     popular: true,
+//     country: 'USA'
+// }
+// console.log(myCity.city)
+// console.log(myCity.popular)
+/////////
+// const myCity = {
+//     city: 'New Yprk',
+// }
+// myCity.popular = true
+// console.log(myCity)
+////////////////
+// const myCity = {
+//     city: 'New Yprk',
+//     popular: true,
+//     country: 'USA'
+// }
+// console.log(myCity)
+
+// delete myCity.country
+// console.log(myCity)
+/////////////
+// const myCity = {
+//     city: 'New Yprk',
+// }
+// myCity['popular'] = true
+// console.log(myCity)
+
+// const countryPropertyName = 'country'
+// myCity [countryPropertyName] = 'USA'
+// console.log(myCity)
+/////////////////////////
+// const myCity = {
+//     city: 'New Yprk',
+//     info: {
+//         popular: true,
+//         country: 'USA'
+//     }
+// }
+// console.log(myCity.info.popular)
+//////////////////////
